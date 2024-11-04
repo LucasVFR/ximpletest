@@ -1,4 +1,6 @@
 # ximpletest
+o job de glue que faz o processamento dos passos  pedidos está como .job acima,
+um pdf do dashboard do quicksight tb segue, mas como pdf.
 
 segue aqui o que espero ser o que era esperado para o desafio.
 
